@@ -1,4 +1,3 @@
-Greetings. I'm Avin Chaili Salim, a resident sleeper from Universitas Sumatera Utara (USU), Indonesia.
-I want to make a game someday and they'll probably ends up being mid. Who cares though, it's my game.
+Greetings. I'm Avin Chaili Salim,a graduates from Universitas Sumatera Utara. I am passionate about game development, but i am also proficient as a Frontend Web Developer. I also like playing game if that isn't obvious.
 
-I also like playing game if that isn't obvious.
+Currently working as a Part-Time Frontend Web Developer in Universitas Sumatera Utara.
